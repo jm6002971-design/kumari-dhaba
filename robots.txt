@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jm6002971-design.github.io/kumari-dhaba/sitemap.xml
